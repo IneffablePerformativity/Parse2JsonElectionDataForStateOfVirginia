@@ -1,0 +1,33 @@
+OMITTING where someMinOtherBothParties (5) was not met in ALLEGHANY COUNTY
+OMITTING where someMinOtherBothParties (5) was not met in BLAND COUNTY
+OMITTING where someMinOtherBothParties (5) was not met in BRISTOL CITY
+OMITTING where someMinOtherBothParties (5) was not met in BUCHANAN COUNTY
+OMITTING where someMinOtherBothParties (5) was not met in CARROLL COUNTY
+OMITTING where someMinOtherBothParties (5) was not met in COVINGTON CITY
+OMITTING where someMinOtherBothParties (5) was not met in CRAIG COUNTY
+OMITTING where someMinOtherBothParties (5) was not met in DICKENSON COUNTY
+OMITTING where someMinOtherBothParties (5) was not met in FLOYD COUNTY
+OMITTING where someMinOtherBothParties (5) was not met in GALAX CITY
+OMITTING where someMinOtherBothParties (5) was not met in GILES COUNTY
+OMITTING where someMinOtherBothParties (5) was not met in GRAYSON COUNTY
+OMITTING where someMinOtherBothParties (5) was not met in LEE COUNTY
+OMITTING where someMinOtherBothParties (5) was not met in MARTINSVILLE CITY
+OMITTING where someMinOtherBothParties (5) was not met in MONTGOMERY COUNTY
+OMITTING where someMinOtherBothParties (5) was not met in NORTON CITY
+OMITTING where someMinOtherBothParties (5) was not met in PATRICK COUNTY
+OMITTING where someMinOtherBothParties (5) was not met in PULASKI COUNTY
+OMITTING where someMinOtherBothParties (5) was not met in RADFORD CITY
+OMITTING where someMinOtherBothParties (5) was not met in RUSSELL COUNTY
+OMITTING where someMinOtherBothParties (5) was not met in SALEM CITY
+OMITTING where someMinOtherBothParties (5) was not met in SCOTT COUNTY
+OMITTING where someMinOtherBothParties (5) was not met in SMYTH COUNTY
+OMITTING where someMinOtherBothParties (5) was not met in TAZEWELL COUNTY
+OMITTING where someMinOtherBothParties (5) was not met in WASHINGTON COUNTY
+OMITTING where someMinOtherBothParties (5) was not met in WISE COUNTY
+OMITTING where someMinOtherBothParties (5) was not met in WYTHE COUNTY
+Across the 106 localities of StateOfVirginia, the BIDEN vote differs from other DEMOCRAT races as: mean = PLUS 1.61% of total votes in locality, with standard deviation = 3.57%.
+Across the 106 localities of StateOfVirginia, the TRUMP vote differs from other REPUBLICAN races as: mean = MINUS 1.2% of total votes in locality, with standard deviation = 2.98%.
+possibleConclusionText BIDEN BONUS = PLUS 1.61%, StdDev 3.57; TRUMP BONUS = MINUS 1.2%, StdDev 2.98
+finalConclusion = THE BLACK X'S MARK 41 BIGGEST SPOTS OF THEFT OVER 4% WORTH 145568 VOTES. SEE LOG FOR LOCALITY NAMES.
+flipsideConclusion = FOR FAIRNESS, ANY WHITE X'S MARK 11 OPPOSITE BONUSES OVER 4% FAVORING TRUMP WORTH 9383 VOTES.
+Note that all items omitted above affect the CSV as well as the PNG.
